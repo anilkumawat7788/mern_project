@@ -1,0 +1,73 @@
+
+/* edit profile css start here============================== */
+
+.page2{
+    height: 35vh;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  }
+  .container2{
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.5);
+    
+  }
+  .heading2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: .5rem;
+    font-weight: bold;
+    font-size: 1rem;
+  
+  }
+  .img-holder2{
+    margin: auto;
+    width: 155px;
+    height: 160px;
+    border: 3px black solid;
+    border-radius: 5px;
+    margin-top: 1rem;
+  }
+  .img2{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-top: .2rem;
+  }
+  #input[type="file"] {
+      display: none;
+  }
+  .label{
+    width: 100%;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+  }
+  .image-upload2{
+    margin: auto;
+    width: 150px;
+      height: 40px;
+    color: #333;
+    border-radius: 5px;
+    background-color: skyblue;
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 1rem !important;
+    padding-top: .5rem;
+    font-size: 1rem;
+
+  
+    
+  }
+
+  /* .profile-edit2{
+    background: skyblue;
+    padding: 5px 10px;
+    width: 8rem;
+    margin-top: 0rem;
+    cursor: pointer;
+} */

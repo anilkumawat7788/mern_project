@@ -1,0 +1,16 @@
+.signup_img2{
+    width: 70%;
+    height: 60%;
+    border-radius: 8px;
+    margin: 4rem 0 0 5rem;
+  
+}
+.signup_main_img2 p{
+    text-align: center;
+    padding:1rem 0 0 5rem;
+    text-decoration: none !important;
+    
+    color: skyblue !important;
+    font-weight: bold;
+    cursor: pointer;
+}

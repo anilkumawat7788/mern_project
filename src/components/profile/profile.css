@@ -1,0 +1,73 @@
+.emp-profile{
+    width:75%;
+    height: 30rem;
+    background: #fff;
+    box-shadow: 0 1px 14px #000007;
+    margin: auto;
+    margin-top: 6rem;
+    border-radius: 12px;
+}
+.user_profile{
+    width: 10rem;
+    height: 10rem;
+    margin: 3rem 0 1rem 2rem;
+}
+.profile-head{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 3rem;
+
+}
+.profile-head h5{
+  color: #333;
+  font-weight: bold;
+
+}
+.profile-head h6{
+    color:skyblue;
+    font-weight: bold;
+  
+    
+  }
+  .profile-head h1{
+    color:#333;
+    font-weight: bold;
+    padding-top: 4rem;
+    font-size: 1.5rem;
+    text-align: center;
+  
+    
+  }
+  .profile-edit{
+      background: skyblue;
+      padding: 5px 10px;
+      width: 8rem;
+      margin-top: 3rem;
+      cursor: pointer;
+  }
+  .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #495057;
+    background-color: #fff;
+    border-color: none !important;
+    margin:3rem 1rem 0 0rem;
+    
+}
+.profile-work{
+    margin-left: 2rem;
+
+}
+.profile-work p{
+ 
+    color: skyblue;
+}
+.profile-work a{
+
+    color: #333;
+    text-decoration: none;
+    cursor: pointer;
+}
+.about-info p{
+    color: skyblue;
+}
+
